@@ -1,0 +1,6 @@
+{
+  "name": "Segredo da Insulina",
+  "description": "Acompanhamento de 21 dias de emagrecimento e controle de fome/glicemia com a mentora Helena no estilo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
